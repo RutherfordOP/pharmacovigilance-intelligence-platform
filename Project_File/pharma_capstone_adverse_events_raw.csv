@@ -1,0 +1,84 @@
+report_id,report_received_date,country,reporter_type,patient_age,patient_sex,drug_name,drug_ndc_code,indication,adverse_event_term,event_seriousness,outcome,onset_date,batch_id,manufacturing_site,dose_amount_mg,route_of_administration,concomitant_medications,causality_assessment
+AE-2025-0001,2025-01-13,Canada,Physician,49,F,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Headache,Serious,Recovered,2025-01-13,B1064-C,MFG-US-ATL-01,100,oral,None reported,Probable
+AE-2025-0002,2025-10-29,Japan,physician,18,,Rheumatrix,0781-5566-11,Rheumatoid Arthritis,Peripheral edema,Serious,Recovered,2025-10-29,B1045-B,MFG-JP-OSA-05,25,oral,Levothyroxine,Unrelated
+AE-2025-0003,2025-07-13,United Kingdom,Nurse,,,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Dizziness,Serious,recovered,2025-07-13,B1037-A,MFG-DE-BER-02,,Subcutaneous,Levothyroxine,possible
+AE-2025-0004,2025-03-25,Germany,Nurse,63,,Dermafex,16590-3344-01,Psoriasis,Dyspnoea,Non-serious,Recovering,2025-03-25,B1034-C,MFG-JP-OSA-05,,Oral,Lisinopril,Certain
+AE-2025-0005,2025-07-25,United Kingdom,physician,26,f,Dermafex,16590-3344-01,Psoriasis,Diarrhoea,serious,Recovering,2025-07-25,B1031-C,MFG-JP-OSA-05,,oral,None reported,Unrelated
+AE-2025-0006,2025-07-05,Germany,physician,Unknown,M,Cardiozan,50090-1234-01,Hypertension,Pyrexia,Serious,Fatal,2025-07-05,B1059-C,MFG-IN-HYD-03,100,oral,Metformin,possible
+AE-2025-0007,2025-05-17,USA,Other,,m,Vasculin,42858-7788-02,Deep Vein Thrombosis,Neutropenia,Non-serious,Unknown,2025-05-17,B1080-B,MFG-JP-OSA-05,100,Intravenous,Ibuprofen,Probable
+AE-2025-0008,09-29-2025,Japan,physician,Unknown,M,VASCULIN,42858-7788-02,Deep Vein Thrombosis,Tachycardia,Serious,Recovered,2025-09-29,B1008-C,MFG-DE-BER-02,,Intramuscular,Atorvastatin,Possible
+AE-2025-0009,2025-11-07,United Kingdom,Consumer,45,,Vasculin,42858-7788-02,Deep Vein Thrombosis,Hypotension,Serious,Recovering,2025-11-07,B1043-A,MFG-JP-OSA-05,100,Intramuscular,Lisinopril,Certain
+AE-2025-0010,2025-12-29,Germany,Nurse,25,M,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Thrombocytopenia,Non-serious,Unknown,12-29-2025,B1031-B,MFG-BR-SAO-04,10,Oral,None reported,Possible
+AE-2025-0011,2025-07-30,United Kingdom,NURSE,77,M,Cardiozan,50090-1234-01,Hypertension,Anaphylaxis,Non-serious,Recovering,2025-07-30,B1017-B,MFG-DE-BER-02,,Intravenous,Metformin,Unlikely
+AE-2025-0012,2025-02-20,Brazil,physician,24,M,Vasculin,42858-7788-02,Deep Vein Thrombosis,Thrombocytopenia,Non-serious,Fatal,2025-02-20,B1021-B,MFG-US-ATL-01,,Topical,"Metformin, Aspirin",Unlikely
+AE-2025-0013,2025-12-05,USA,Nurse,37,U,Vasculin,42858-7788-02,Deep Vein Thrombosis,Headache,Non-Serious,Recovered,12-05-2025,B1064-C,MFG-DE-BER-02,5,Intravenous,Metformin,Unrelated
+AE-2025-0014,2025-12-12,Australia,Physician,48,f,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Pyrexia,Non-Serious,Not Recovered,2025-12-12,B1091-B,MFG-DE-BER-02,,Intravenous,"Metformin, Aspirin",Unlikely
+AE-2025-0015,2025-02-07,Canada,Pharmacist,19,M,Dermafex,16590-3344-01,Psoriasis,Insomnia,Serious,Recovering,2025-02-07,B1020-B,MFG-JP-OSA-05,,Intramuscular,,possible
+AE-2025-0016,2025-06-03,Canada,physician,,M,Vasculin,42858-7788-02,Deep Vein Thrombosis,Myalgia,Non-serious,recovered,2025-06-03,B1087-C,MFG-IN-HYD-03,,Subcutaneous,,Certain
+AE-2025-0017,2025-05-22,Japan,physician,,F,Cardiozan,50090-1234-01,Hypertension,Dyspnoea,serious,Unknown,22/05/2025,B1088-A,MFG-JP-OSA-05,,Intramuscular,Atorvastatin,Unlikely
+AE-2025-0018,2025-01-22,Brazil,Other,57,U,Glucomend,00378-9012-10,Type 2 Diabetes,Dyspnoea,serious,Unknown,2025-01-22,B1030-A,MFG-DE-BER-02,50,Intravenous,Ibuprofen,Unlikely
+AE-2025-0019,2025-05-17,Brazil,physician,Unknown,M,Pulmocare-XR,12345-0456-05,COPD,Hypotension,Non-Serious,Not Recovered,2025-05-17,B1029-A,MFG-US-ATL-01,250,Topical,Ibuprofen,Possible
+AE-2025-0020,2025-05-23,Canada,Pharmacist,Unknown,,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Rash,Non-Serious,Recovering,2025-05-23,B1033-A,MFG-US-ATL-01,,Subcutaneous,Ibuprofen,Unlikely
+AE-2025-0021,09-19-2025,USA,Nurse,67,U,Immunova,68180-9900-04,Ulcerative Colitis,Dyspnoea,Non-serious,Not Recovered,2025-09-19,B1085-B,MFG-JP-OSA-05,25,oral,"Metformin, Aspirin",Unrelated
+AE-2025-0022,2025-12-08,India,physician,Unknown,,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Diarrhoea,Non-serious,Unknown,2025-12-08,B1051-C,MFG-US-ATL-01,,Intravenous,None reported,Unrelated
+AE-2025-0023,2025-12-02,Canada,Consumer,Unknown,m,Immunova,68180-9900-04,Ulcerative Colitis,Hepatic enzyme increased,Serious,Not Recovered,2025-12-02,B1081-C,MFG-IN-HYD-03,5,oral,"Metformin, Aspirin",Probable
+AE-2025-0024,2025-03-17,Germany,Consumer,23,m,Pulmocare-XR,12345-0456-05,COPD,Tachycardia,Non-serious,recovered,2025-03-17,B1063-B,MFG-DE-BER-02,10,Oral,None reported,Probable
+AE-2025-0025,2025-12-23,Germany,Consumer,84,f,Glucomend,00378-9012-10,Type 2 Diabetes,Hypotension,Non-Serious,Fatal,2025-12-23,B1092-C,MFG-BR-SAO-04,,Intravenous,Levothyroxine,Unlikely
+AE-2025-0026,2025-05-07,France,Physician,Unknown,,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Anaphylaxis,Non-Serious,Not Recovered,2025-05-07,B1069-A,MFG-DE-BER-02,10,Topical,Atorvastatin,possible
+AE-2025-0027,2025-02-02,USA,physician,,f,Pulmocare-XR,12345-0456-05,COPD,Diarrhoea,Serious,Unknown,2025-02-02,B1000-B,MFG-IN-HYD-03,,Intramuscular,Lisinopril,Unlikely
+AE-2025-0028,2025-05-20,usa,Other,73,m,Pulmocare-XR,12345-0456-05,COPD,Hypotension,Non-serious,Unknown,2025-05-20,B1050-C,MFG-JP-OSA-05,250,Oral,None reported,Probable
+AE-2025-0029,2025-04-04,United Kingdom,Pharmacist,Unknown,U,Rheumatrix,0781-5566-11,Rheumatoid Arthritis,Diarrhoea,Non-Serious,Fatal,2025-04-04,B1010-B,MFG-US-ATL-01,250,Subcutaneous,Lisinopril,possible
+AE-2025-0030,2025-11-30,Australia,physician,21,F,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Thrombocytopenia,Serious,Unknown,2025-11-30,B1059-C,MFG-IN-HYD-03,25,Intramuscular,Metformin,Probable
+AE-2025-0031,2025-02-25,Brazil,Physician,Unknown,m,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Anaphylaxis,Serious,recovered,2025-02-25,B1087-C,MFG-US-ATL-01,100,Subcutaneous,None reported,possible
+AE-2025-0032,2025-02-05,Germany,Consumer,82,m,Dermafex,16590-3344-01,Psoriasis,Hypotension,Non-serious,Fatal,2025-02-05,B1066-C,MFG-IN-HYD-03,,Topical,None reported,possible
+AE-2025-0033,2025-05-18,Brazil,NURSE,59,U,Immunova,68180-9900-04,Ulcerative Colitis,Myalgia,serious,Not Recovered,05-18-2025,B1023-B,MFG-DE-BER-02,,Subcutaneous,"Metformin, Aspirin",Unrelated
+AE-2025-0034,2025-10-12,usa,Consumer,84,M,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Anaphylaxis,serious,recovered,2025-10-12,B1057-A,MFG-US-ATL-01,25,Topical,Lisinopril,Possible
+AE-2025-0035,2025-07-08,Canada,Pharmacist,,m,Immunova,68180-9900-04,Ulcerative Colitis,Hypotension,Non-Serious,Not Recovered,2025-07-08,B1015-C,MFG-DE-BER-02,25,oral,Atorvastatin,Probable
+AE-2025-0036,2025-09-05,Japan,physician,,M,Pulmocare-XR,12345-0456-05,COPD,QT prolongation,Serious,recovered,2025-09-05,B1035-A,MFG-US-ATL-01,,oral,Atorvastatin,possible
+AE-2025-0037,2025-02-22,India,Physician,Unknown,m,Rheumatrix,0781-5566-11,Rheumatoid Arthritis,Thrombocytopenia,Serious,Recovered,2025-02-22,B1009-C,MFG-US-ATL-01,10,Intramuscular,"Metformin, Aspirin",Certain
+AE-2025-0038,2025-03-02,France,Pharmacist,71,f,Pulmocare-XR,12345-0456-05,COPD,Pyrexia,Non-Serious,Unknown,2025-03-02,B1078-C,MFG-US-ATL-01,10,Subcutaneous,Metformin,Probable
+AE-2025-0039,2025-03-30,Australia,Consumer,27,M,Pulmocare-XR,12345-0456-05,COPD,Anaphylaxis,Non-Serious,recovered,2025-03-30,B1058-A,MFG-DE-BER-02,25,Topical,Metformin,Unrelated
+AE-2025-0040,11-28-2025,Australia,Other,52,M,Pulmocare-XR,12345-0456-05,COPD,QT prolongation,serious,Recovered,2025-11-28,B1038-C,MFG-BR-SAO-04,,Topical,Metformin,Unrelated
+AE-2025-0041,2025-08-10,Australia,Nurse,59,M,Cardiozan,50090-1234-01,Hypertension,Neutropenia,Serious,Recovering,2025-08-10,B1083-B,MFG-IN-HYD-03,,oral,Levothyroxine,Certain
+AE-2025-0042,28/06/2025,United Kingdom,Consumer,,,Rheumatrix,0781-5566-11,Rheumatoid Arthritis,QT prolongation,serious,Unknown,28/06/2025,B1040-B,MFG-IN-HYD-03,,Intramuscular,,possible
+AE-2025-0043,2025-08-25,France,Other,24,f,Vasculin,42858-7788-02,Deep Vein Thrombosis,Headache,Non-serious,Not Recovered,2025-08-25,B1036-B,MFG-BR-SAO-04,5,oral,Lisinopril,possible
+AE-2025-0044,2025-06-09,Germany,Consumer,Unknown,M,Glucomend,00378-9012-10,Type 2 Diabetes,Fatigue,serious,recovered,2025-06-09,B1090-B,MFG-BR-SAO-04,,Intravenous,Levothyroxine,Unrelated
+AE-2025-0045,2025-07-16,usa,Pharmacist,83,M,Glucomend,00378-9012-10,Type 2 Diabetes,Vomiting,Non-Serious,Recovered,2025-07-16,B1038-C,MFG-JP-OSA-05,,Intravenous,Levothyroxine,Unrelated
+AE-2025-0046,2025-06-26,Brazil,Other,Unknown,m,Rheumatrix,0781-5566-11,Rheumatoid Arthritis,Diarrhoea,Non-serious,Fatal,06-26-2025,B1090-B,MFG-BR-SAO-04,250,Topical,,Probable
+AE-2025-0047,2025-10-30,France,Physician,Unknown,M,Vasculin,42858-7788-02,Deep Vein Thrombosis,Pyrexia,Non-serious,Recovered,2025-10-30,B1033-B,MFG-JP-OSA-05,,oral,Metformin,Possible
+AE-2025-0048,07-14-2025,Brazil,Other,58,f,VASCULIN,42858-7788-02,Deep Vein Thrombosis,Rash,Serious,Fatal,2025-07-14,B1038-A,MFG-US-ATL-01,25,Subcutaneous,Ibuprofen,Possible
+AE-2025-0049,2025-03-16,India,physician,Unknown,f,Cardiozan,50090-1234-01,Hypertension,Myalgia,serious,Unknown,2025-03-16,B1063-C,MFG-DE-BER-02,,oral,"Metformin, Aspirin",Unlikely
+AE-2025-0050,2025-12-08,Germany,Consumer,,,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Tachycardia,Non-Serious,recovered,2025-12-08,B1088-B,MFG-BR-SAO-04,25,Topical,Levothyroxine,Certain
+AE-2025-0051,2025-07-15,usa,Pharmacist,,M,PULMOCARE-XR,12345-0456-05,COPD,Headache,serious,Not Recovered,2025-07-15,B1029-C,MFG-IN-HYD-03,10,Intramuscular,"Metformin, Aspirin",possible
+AE-2025-0052,11-18-2025,India,Physician,,m,Glucomend,00378-9012-10,Type 2 Diabetes,Peripheral edema,serious,Recovering,2025-11-18,B1069-B,MFG-JP-OSA-05,,Intravenous,"Metformin, Aspirin",Unlikely
+AE-2025-0053,2025-06-23,Brazil,NURSE,32,F,Oncozel,60505-1122-03,Non-small Cell Lung Cancer,Diarrhoea,Non-Serious,Recovered,2025-06-23,B1001-B,MFG-JP-OSA-05,,Subcutaneous,"Metformin, Aspirin",Unrelated
+AE-2025-0054,11-23-2025,Australia,physician,31,m,Cardiozan,50090-1234-01,Hypertension,Hypotension,Non-Serious,recovered,2025-11-23,B1017-A,MFG-US-ATL-01,,Oral,Metformin,Probable
+AE-2025-0055,2025-03-11,Canada,Consumer,,,Vasculin,42858-7788-02,Deep Vein Thrombosis,Fatigue,serious,recovered,03-11-2025,B1078-B,MFG-IN-HYD-03,,Intravenous,Levothyroxine,Unlikely
+AE-2025-0056,2025-07-05,Brazil,Physician,,M,Pulmocare-XR,12345-0456-05,COPD,Hypotension,Serious,recovered,2025-07-05,B1081-C,MFG-US-ATL-01,,Intravenous,Atorvastatin,Unrelated
+AE-2025-0057,2025-02-05,India,NURSE,44,F,Pulmocare-XR,12345-0456-05,COPD,Nausea,Non-Serious,Recovering,2025-02-05,B1069-B,MFG-DE-BER-02,5,Intravenous,,Possible
+AE-2025-0058,10-29-2025,Canada,Physician,20,U,Pulmocare-XR,12345-0456-05,COPD,Thrombocytopenia,serious,Not Recovered,2025-10-29,B1013-B,MFG-JP-OSA-05,10,oral,"Metformin, Aspirin",Unlikely
+AE-2025-0059,02-01-2025,Germany,Physician,Unknown,,Cardiozan,50090-1234-01,Hypertension,Fatigue,Serious,Recovering,2025-02-01,B1081-C,MFG-JP-OSA-05,,Topical,"Metformin, Aspirin",Unlikely
+AE-2025-0060,2025-11-06,Canada,Other,73,,Vasculin,42858-7788-02,Deep Vein Thrombosis,Pyrexia,serious,Recovering,2025-11-06,B1058-B,MFG-BR-SAO-04,250,Subcutaneous,None reported,Possible
+AE-2025-0061,2025-07-11,Germany,Consumer,37,M,ONCOZEL,60505-1122-03,Non-small Cell Lung Cancer,Insomnia,Non-serious,Unknown,07-11-2025,B1085-A,MFG-BR-SAO-04,,oral,,Possible
+AE-2025-0062,2025-06-09,Brazil,NURSE,31,F,Immunova,68180-9900-04,Ulcerative Colitis,Dyspnoea,Non-Serious,Recovered,2025-06-09,B1073-A,MFG-BR-SAO-04,100,Intramuscular,"Metformin, Aspirin",Certain
+AE-2025-0063,2025-05-20,India,Nurse,,M,Glucomend,00378-9012-10,Type 2 Diabetes,Dizziness,Non-serious,recovered,2025-05-20,B1003-A,MFG-JP-OSA-05,,Topical,Levothyroxine,Possible
+AE-2025-0064,2025-07-09,Australia,Physician,57,M,Glucomend,00378-9012-10,Type 2 Diabetes,Neutropenia,serious,recovered,2025-07-09,B1077-B,MFG-BR-SAO-04,25,Intramuscular,Metformin,Possible
+AE-2025-0065,2025-02-26,Australia,Physician,,M,CARDIOZAN,50090-1234-01,Hypertension,QT prolongation,Non-serious,Recovering,2025-02-26,B1037-B,MFG-US-ATL-01,,oral,None reported,Probable
+AE-2025-0066,2025-07-14,USA,Consumer,,M,GLUCOMEND,00378-9012-10,Type 2 Diabetes,Dizziness,Non-Serious,Unknown,2025-07-14,B1051-C,MFG-BR-SAO-04,25,Topical,,Possible
+AE-2025-0067,2025-11-13,Brazil,Consumer,76,m,Glucomend,00378-9012-10,Type 2 Diabetes,Vomiting,Serious,Fatal,2025-11-13,B1095-B,MFG-DE-BER-02,25,Oral,Metformin,Unrelated
+AE-2025-0068,04-10-2025,Brazil,physician,62,F,Vasculin,42858-7788-02,Deep Vein Thrombosis,Dizziness,Non-serious,recovered,2025-04-10,B1096-C,MFG-JP-OSA-05,,oral,Ibuprofen,Probable
+AE-2025-0069,2025-02-04,United Kingdom,Nurse,,U,RHEUMATRIX,0781-5566-11,Rheumatoid Arthritis,Hypotension,serious,Recovered,02-04-2025,B1009-C,MFG-US-ATL-01,,Topical,,Unlikely
+AE-2025-0070,2025-11-30,USA,Consumer,Unknown,f,Immunova,68180-9900-04,Ulcerative Colitis,Peripheral edema,Serious,Unknown,2025-11-30,B1005-A,MFG-BR-SAO-04,50,Subcutaneous,Ibuprofen,Possible
+AE-2025-0071,2025-07-29,Canada,Other,,M,Cardiozan,50090-1234-01,Hypertension,Neutropenia,Non-serious,Not Recovered,29/07/2025,B1044-B,MFG-BR-SAO-04,10,Subcutaneous,None reported,possible
+AE-2025-0072,2025-03-07,United Kingdom,Pharmacist,Unknown,f,Dermafex,16590-3344-01,Psoriasis,Injection site reaction,Non-Serious,Fatal,2025-03-07,B1017-A,MFG-US-ATL-01,25,Intramuscular,,possible
+AE-2025-0073,2025-11-13,Australia,NURSE,66,F,Dermafex,16590-3344-01,Psoriasis,Hypotension,Serious,Fatal,2025-11-13,B1092-A,MFG-BR-SAO-04,,oral,Levothyroxine,Probable
+AE-2025-0074,2025-05-03,Australia,Consumer,78,U,Vasculin,42858-7788-02,Deep Vein Thrombosis,QT prolongation,serious,Unknown,2025-05-03,B1020-A,MFG-JP-OSA-05,,Oral,Levothyroxine,Possible
+AE-2025-0075,2025-02-22,Japan,Consumer,,M,Vasculin,42858-7788-02,Deep Vein Thrombosis,Fatigue,serious,Recovered,2025-02-22,B1028-B,MFG-IN-HYD-03,,Oral,None reported,Unrelated
+AE-2025-0076,01/05/2025,United Kingdom,NURSE,,F,Dermafex,16590-3344-01,Psoriasis,Headache,Non-Serious,Fatal,2025-05-01,B1017-C,MFG-BR-SAO-04,50,Oral,,Possible
+AE-2025-0077,2025-03-18,Brazil,Pharmacist,Unknown,M,Pulmocare-XR,12345-0456-05,COPD,Anaphylaxis,serious,recovered,2025-03-18,B1058-A,MFG-US-ATL-01,50,oral,Lisinopril,possible
+AE-2025-0078,2025-05-30,India,Other,,F,Glucomend,00378-9012-10,Type 2 Diabetes,Vomiting,Non-Serious,Recovered,2025-05-30,B1069-C,MFG-JP-OSA-05,100,Topical,Levothyroxine,Certain
+AE-2025-0079,2025-07-11,Germany,NURSE,,M,Cardiozan,50090-1234-01,Hypertension,Peripheral edema,Non-serious,Recovered,2025-07-11,B1043-C,MFG-DE-BER-02,,oral,Levothyroxine,possible
+AE-2025-0080,2025-03-11,Brazil,Physician,26,U,Glucomend,00378-9012-10,Type 2 Diabetes,QT prolongation,serious,Unknown,2025-03-11,B1004-C,MFG-DE-BER-02,,Oral,Ibuprofen,Possible
+AE-2025-0081,2025-07-08,India,Consumer,Unknown,m,Neurolex,0069-5678-02,Generalized Anxiety Disorder,Insomnia,Non-Serious,Recovered,2025-07-08,B1010-B,MFG-JP-OSA-05,,Subcutaneous,Metformin,Certain
+AE-2025-0011,2025-07-30,United Kingdom,NURSE,77,M,Cardiozan,50090-1234-01,Hypertension,Anaphylaxis,Non-serious,Recovering,2025-07-30,B1017-B,MFG-DE-BER-02,,Intravenous,Metformin,Unlikely
+AE-2025-0021,09-19-2025,USA,Nurse,67,U,Immunova,68180-9900-04,Ulcerative Colitis,Rash,Non-serious,Not Recovered,2025-09-19,B1085-B,MFG-JP-OSA-05,25,oral,"Metformin, Aspirin",Unrelated
