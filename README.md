@@ -8,7 +8,7 @@ report review with automated, auditable signal detection.
 ## What it does
 - Ingests raw adverse event report CSVs into an AWS S3 landing zone via a
   scoped IAM role and Snowflake storage integration
-- Cleanses and standardizes the data in Dataiku DSS — deduplication with
+- Cleanses and standardizes the data in Dataiku DSS deduplication with
   documented conflict resolution, casing/date normalization, and
   missing-value handling with an automated Data Quality gate
 - Models the cleaned data into a Snowflake star schema (5 dimensions,
