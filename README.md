@@ -23,7 +23,7 @@ report review with automated, auditable signal detection.
 ## Key finding
 The pipeline identified a genuine statistical anomaly in December 2025
 report volume for one drug. Drilling into the underlying reports showed
-mixed clinical causality assessments — demonstrating that a statistical
+mixed clinical causality assessments demonstrating that a statistical
 signal flags where to look, not a conclusion about drug safety.
 
 ## Documentation
